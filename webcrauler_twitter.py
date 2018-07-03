@@ -2,10 +2,10 @@ import tweepy
 import csv
 import time
 
-consumer_key = "W6TzJ9TGTS8Ptkbv1AXYksqcx"
-consumer_secret = "NLcu37UAncU24IBDeMBwXLjbi2MnOgV5xaSYONsAMVZYmLKk30"
-acess_token = "228233387-trdWazlwulSVXtjk5yNCN7gQoetTxgI7wqx5ZpDG"
-acess_token_secret = "xSF0qD70kLTryqyNljfceHcyN4WjxR4Lgyv8EEKr7fdxA"
+consumer_key = "W6TzJ9________________________XYksqcx"
+consumer_secret = "NLcu____________xaSYONsAMVZYmLKk30"
+acess_token = "2_________87-trdWazlwul___________ZpDG"
+acess_token_secret = "xSF0qD70kLTry_________________A"
 
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
 auth.set_access_token(acess_token, acess_token_secret)
